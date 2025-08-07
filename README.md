@@ -22,9 +22,11 @@
 
 ## 🖼️ Preview
 
-<img src="https://img.freepik.com/premium-vector/currency-exchange-vector-illustration-concept-white-background_701961-1613.jpg" alt="Currency Converter Demo" width="500"/>
+> _Screenshot of the project interface:_
 
-> *Image is for visual representation only. Replace with your actual app screenshot!*
+**(If the image below doesn't load, right-click > open image in new tab)**
+
+![Currency Converter Screenshot](https://drive.google.com/uc?export=view&id=1q34tcNsF63eBCBpqip2DFJgq66ZjHFAr)
 
 ---
 
