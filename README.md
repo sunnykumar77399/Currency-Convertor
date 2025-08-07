@@ -29,6 +29,11 @@
  <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1q34tcNsF63eBCBpqip2DFJgq66ZjHFAr" alt="Currency Converter Screenshot" width="600" />
 </p>
+
+---
+
+> _Made with 💖 by [Sunny Kumar]_
+
 ---
 
 ## 📂 Getting Started
@@ -38,3 +43,5 @@ git clone https://github.com/your-username/currency-converter-app.git
 cd currency-converter-app
 npm install
 npm start
+
+
