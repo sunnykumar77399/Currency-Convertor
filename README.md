@@ -1,41 +1,12 @@
-# 💱 Currency Converter App
+# React + Vite
 
-🔄 A **React-based currency converter** that lets users convert between global currencies in real-time using **live exchange rate APIs**.  
-🧠 Built to enhance my understanding of **API integration** and **custom React Hooks**.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## 🚀 Features
-- Real-time currency conversion using exchange rate API 🌍
-- Easy UI for selecting "From" and "To" currencies 🧾
-- Custom hook implementation for cleaner code 🧩
-- Responsive & minimalist design 🎨
+Currently, two official plugins are available:
 
-## 🛠️ Tech Stack
-- **React**
-- **Custom Hooks**
-- **Fetch API**
-- **CSS**
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## 🧪 What I Learned
-- Fetching and handling asynchronous data via API 🛰️  
-- Creating and using custom hooks for reusability 🔄  
-- State management and form control in React ⚛️
+## Expanding the ESLint configuration
 
-## 🖼️ Preview
-
-> _Screenshot of the project interface:_
-
-**(If the image below doesn't load, right-click > open image in new tab)**
-
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1q34tcNsF63eBCBpqip2DFJgq66ZjHFAr" alt="Currency Converter Screenshot" width="600" />
-</p>
-
----
-
-## 📂 Getting Started
-
-```bash
-git clone https://github.com/your-username/currency-converter-app.git
-cd currency-converter-app
-npm install
-npm start
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
