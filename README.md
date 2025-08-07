@@ -26,7 +26,9 @@
 
 **(If the image below doesn't load, right-click > open image in new tab)**
 
-![Currency Converter Screenshot](https://drive.google.com/uc?export=view&id=1q34tcNsF63eBCBpqip2DFJgq66ZjHFAr)
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1q34tcNsF63eBCBpqip2DFJgq66ZjHFAr" alt="Currency Converter Screenshot" width="600" />
+</p>
 
 ---
 
